@@ -95,4 +95,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Krrish Sethiya**. I’m an 2nd Year Grad at Medicaps University Indore currently upskilling myself in the field of Data Engineering.
+Hi there! I'm **Krrish Sethiya**. I’m an 3nd Year Grad at Medicaps University Indore currently upskilling myself in the field of Data Engineering.
